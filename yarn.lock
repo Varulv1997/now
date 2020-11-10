@@ -2033,11 +2033,6 @@
     semver "^6.3.0"
     tsutils "^3.17.1"
 
-"@vercel/next@2.6.2-canary.0":
-  version "2.6.2-canary.0"
-  resolved "https://registry.yarnpkg.com/@vercel/next/-/next-2.6.2-canary.0.tgz#3ced587aa0ae5d3c1d0708f25fd307a834e829ea"
-  integrity sha512-RVC5dR4iQpqcvMC5Qyk2wzyZREEebQM0dJp4c0fqTEZacLsaKt4pEENFZ40+7H8wNUV7D6gfPQTRLGfMF7tsKw==
-
 "@zeit/dns-cached-resolve@2.1.0":
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/@zeit/dns-cached-resolve/-/dns-cached-resolve-2.1.0.tgz#78583010df1683fdb7b05949b75593c9a8641bc1"
@@ -7975,15 +7970,15 @@ node-fetch-npm@^2.0.2:
     json-parse-better-errors "^1.0.0"
     safe-buffer "^5.1.1"
 
-node-fetch@2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.2.0.tgz#4ee79bde909262f9775f731e3656d0db55ced5b5"
-  integrity sha512-OayFWziIxiHY8bCUyLX6sTpDH8Jsbp4FfYd1j1f7vZyfgkcOnAyM4oQR16f8a0s7Gl/viMGRey8eScYk4V4EZA==
-
-node-fetch@2.6.0, node-fetch@^2.2.0, node-fetch@^2.2.1, node-fetch@^2.3.0, node-fetch@^2.5.0:
+node-fetch@2.6.0:
   version "2.6.0"
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.0.tgz#e633456386d4aa55863f676a7ab0daa8fdecb0fd"
   integrity sha512-8dG4H5ujfvFiqDmVu9fQ5bOHUC15JMjMY/Zumv26oOvvVJjM67KF8koCWIabKQ1GJIa9r2mMZscBq/TbdOcmNA==
+
+node-fetch@2.6.1, node-fetch@^2.2.0, node-fetch@^2.2.1, node-fetch@^2.3.0, node-fetch@^2.5.0:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.1.tgz#045bd323631f76ed2e2b55573394416b639a0052"
+  integrity sha512-V4aYg89jEoVRxRb2fJdAg8FHvI7cEyYdVAh94HH0UIK8oJxUfkjlDQN9RbMx+bEjP7+ggMiFRprSti032Oipxw==
 
 node-gyp@^5.0.2:
   version "5.0.3"
