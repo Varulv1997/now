@@ -160,7 +160,7 @@
     "ora": "3.4.0",
     "pcre-to-regexp": "1.0.0",
     "pluralize": "7.0.0",
-    "printf": "0.2.5",
+    "printf": "0.6.1",
     "progress": "2.0.3",
     "promisepipe": "3.0.0",
     "psl": "1.1.31",
