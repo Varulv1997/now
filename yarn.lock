@@ -2033,11 +2033,6 @@
     semver "^6.3.0"
     tsutils "^3.17.1"
 
-"@vercel/next@2.6.2-canary.0":
-  version "2.6.2-canary.0"
-  resolved "https://registry.yarnpkg.com/@vercel/next/-/next-2.6.2-canary.0.tgz#3ced587aa0ae5d3c1d0708f25fd307a834e829ea"
-  integrity sha512-RVC5dR4iQpqcvMC5Qyk2wzyZREEebQM0dJp4c0fqTEZacLsaKt4pEENFZ40+7H8wNUV7D6gfPQTRLGfMF7tsKw==
-
 "@zeit/dns-cached-resolve@2.1.0":
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/@zeit/dns-cached-resolve/-/dns-cached-resolve-2.1.0.tgz#78583010df1683fdb7b05949b75593c9a8641bc1"
@@ -5676,9 +5671,9 @@ he@1.1.1:
   integrity sha1-k0EP0hsAlzUVH4howvJx80J+I/0=
 
 hosted-git-info@^2.1.4, hosted-git-info@^2.6.0, hosted-git-info@^2.7.1:
-  version "2.8.4"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.4.tgz#44119abaf4bc64692a16ace34700fed9c03e2546"
-  integrity sha512-pzXIvANXEFrc5oFFXRMkbLPQ2rXRoDERwDLyrcUxGhaZhgP54BBSl9Oheh7Vv0T090cszWBxPjkQQ5Sq1PbBRQ==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 html-encoding-sniffer@^1.0.2:
   version "1.0.2"
